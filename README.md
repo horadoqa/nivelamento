@@ -1,6 +1,4 @@
-# Nivelamento de Conhecimento QA
-
-[![Nivelamento de Conhecimento QA](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Nivelamento+de+Conhecimento+QA)](https://git.io/typing-svg)
+# [![Nivelamento de Conhecimento QA](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Nivelamento+de+Conhecimento+QA)](https://git.io/typing-svg)
 
 Começar a trabalhar como **QA (Quality Assurance)** envolve uma combinação de habilidades técnicas e práticas que garantem que o software seja funcional, estável e atenda aos requisitos estabelecidos. Para quem está começando, é importante adquirir um conjunto básico de conhecimentos e habilidades para ser eficaz no trabalho. Aqui está um passo a passo para o nivelamento de conhecimento necessário para quem deseja ingressar na área de QA:
 
